@@ -19,23 +19,22 @@ A web app built with TypeScript, Vite, and Tailwind CSS, aimed at helping users 
 
 ---
 
-## Features
+## ✨ Features
 
-- Intuitive UI for inputting text or links to evaluate content  
-- Responsive design with Tailwind CSS  
-- Fast build using Vite for development/performance  
+- 📝 **Text Analysis** – Paste any content and evaluate credibility  
+- 🚦 **Misinformation Alerts** – Get quick insights about misleading claims  
+- 🌍 **Accessible Anywhere** – Deployed on Vercel, responsive across devices  
+- ⚡ **Fast & Lightweight** – Powered by Vite + TypeScript  
+- 🎨 **Modern UI** – Styled with Tailwind CSS 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- **Languages:** TypeScript, JavaScript  
-- **Frontend Framework / Bundler:** Vite  
+- **Frontend:** React (via Vite) + TypeScript  
 - **Styling:** Tailwind CSS, PostCSS  
-- **Linting & Formatting:** ESLint  
-- **Other configs:**  
-  - `tsconfig` for TypeScript settings  
-  - `tailwind.config.js` & `postcss.config.js` for styling pipeline  
+- **Deployment:** Vercel  
+- **Linting / Formatting:** ESLint, Prettier  
 
 ---
 
